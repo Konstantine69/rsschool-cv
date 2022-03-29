@@ -22,8 +22,8 @@ end;
 ## Education ##  
 * RS School JavaScript Front-End Developer stage 1  
 ##### Languages #####  
-* English(I can tell you to ~~fuck off~~ go for bread)  
-* Ukrainian(Можу послати вас ~~нахуй~~ за хлiбушком)  
-* Belarusian(Магу паслаць вас ~~нахуй~~ за хлебушкам)  
-* Russian(Могу послать вас ~~нахуй~~ за хлебушком)  
-* Japaniese(私はあなたに性交することが ~~できます~~ ができます)  
+* English(I can tell you to go for a bread)  
+* Ukrainian(Можу послати вас за хлiбушком)  
+* Belarusian(Магу паслаць вас за хлебушкам)  
+* Russian(Могу послать вас за хлебушком)  
+* Japaniese(私はいくつかのパンのためにあなたを送ることができます)  
