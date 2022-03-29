@@ -5,7 +5,7 @@
 * Telegram: @Konstantine69  
 # About me #  
  I like to work in a team and do one big task. I am ready to learn  new things and expand my boundaries.  
- ## Skills ##  
+## Skills ##  
 * HTML  
 * CSS/SASS  
 * JavaScript (Basic)  
